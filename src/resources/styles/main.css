@@ -1,0 +1,32 @@
+/* Hand cursor on hover for all clickable buttons / dropdowns */
+.button:hover{
+    -fx-cursor: hand;
+}
+
+#options-dropdown {
+    -fx-cursor: hand;
+}
+
+#browser-dropdown {
+    -fx-cursor: hand;
+}
+
+/* CSS for the 'new tab' button*/
+.new-tab-button {
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-content-display: graphic-only;
+}
+
+.new-tab-button:hover {
+    -fx-background-color: lightgray;
+}
+
+/* Set icon for the home button in the navbar */
+#home-button{
+    -fx-graphic: url('http://icons.iconarchive.com/icons/mahm0udwally/all-flat/24/Home-icon.png');
+}
+
+
+

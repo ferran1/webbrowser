@@ -4,8 +4,7 @@ import javafx.scene.text.FontSmoothingType;
 import javafx.scene.web.WebView;
 
 /**
- * represents the "Options button in the navbar"
- * @author Ferran
+   "Option" button in the navbar
  */
 public class WebMenu extends MenuButton {
 

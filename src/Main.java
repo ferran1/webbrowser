@@ -5,10 +5,6 @@ import javafx.scene.layout.VBox;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 
-/**
- * Webbrowser + HTML Viewer
- * @author Ferran
- */
 public class Main extends Application {
 
     VBox vBox = new VBox();

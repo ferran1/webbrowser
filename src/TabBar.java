@@ -6,10 +6,6 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.web.WebView;
 
-/**
- * This class represents the tab pane
- * @author Ferran
- */
 public class TabBar extends TabPane {
 
     private static int tabCounter = 1;

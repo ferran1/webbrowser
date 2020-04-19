@@ -1,5 +1,5 @@
 # Webbrowser and HTML viewer
-A web browser GUI using JavaFX and WebView
+Web browser GUI using JavaFX and WebView
 
 # Installation
 ### Requirements:

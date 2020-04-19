@@ -8,7 +8,7 @@ import javafx.scene.web.WebView;
 
 /**
  * This class represents the tab pane
- * @author Ferram
+ * @author Ferran
  */
 public class TabBar extends TabPane {
 

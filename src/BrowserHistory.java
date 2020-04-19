@@ -5,10 +5,6 @@ import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-/**
- * This class represents the browser history part of
- * Extends HBox because we want this browser history menu to be horizontal box
- */
 public class BrowserHistory extends HBox {
 
     /**

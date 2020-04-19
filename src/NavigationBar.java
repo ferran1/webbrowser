@@ -17,7 +17,6 @@ import java.io.File;
 import java.net.MalformedURLException;
 
 /**
- * Represents a navigation bar
  * Extends HBox because we want this navbar to be a Horizontal box
  */
 public class NavigationBar extends HBox {

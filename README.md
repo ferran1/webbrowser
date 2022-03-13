@@ -1,5 +1,4 @@
 # Webbrowser and HTML viewer
-Web browser using JavaFX and WebView
 
 # Installation
 ### Requirements:
